@@ -2,7 +2,14 @@
 
 ### ⚡️ Download
 
-### 🧩 Spam 2024 WDC 2nd Edition
+### 🧩 Spam 2024 SIC Winners
+* 🔗 Dirtito [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024SICDirtito.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024SICDirtito.zip.loc) ]
+* 🔗 Josssito [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024SICJosssito.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024SICJosssito.zip.loc) ]
+* 🔗 Pagito [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024SICPagito.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024SICPagito.zip.loc) ]
+* 🔗 Pumarito [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024SICPumarito.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024SICPumarito.zip.loc) ]
+* 🔗 Pridito [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024SICPridito.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024SICPridito.zip.loc) ]
+
+### 🧩 Spam 2024 WDC 2nd Edition Winners
 * 🔗 Dirty [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024WDCDirty.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024WDCDirty.zip.loc) ]
 * 🔗 Josss [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024WDCDirty.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024WDCDirty.zip.loc) ]
 
@@ -15,6 +22,7 @@
 * 🔗 James [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024James.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024James.zip.loc) ]
 * 🔗 Josss [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024Josss.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024Josss.zip.loc) ]
 * 🔗 Kerav [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024Kerav.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024Kerav.zip.loc) ]
+* 🔗 LeClown [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024LeClown.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024LeClown.zip.loc) ]
 * 🔗 MaxDef [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024MaxDef.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024MaxDef.zip.loc) ]
 * 🔗 Pumarex [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024Pumarex.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024Pumarex.zip.loc) ]
 * 🔗 Ronny [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024Ronny.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024Ronny.zip.loc) ]
