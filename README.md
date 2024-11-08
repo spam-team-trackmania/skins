@@ -15,6 +15,8 @@
 
 ### 🧩 Spam 2024 Refresh
 * 🔗 Dirty [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshDirty.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshDirty.zip.loc) ]
+* 🔗 Josss [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshJosss.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshJosss.zip.loc) ]
+* 🔗 Olikio [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshOlikio.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshOlikio.zip.loc) ]
 
 ### 🧩 Spam 2024
 * 🔗 Abbeyy [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024Abbeyy.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024Abbeyy.zip.loc) ]
