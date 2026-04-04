@@ -19,6 +19,7 @@
 * 🔗 Olikio [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshOlikio.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshOlikio.zip.loc) ]
 * 🔗 YelaWolf [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshYelaWolf.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshYelaWolf.zip.loc) ]
 * 🔗 Juba [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshJuba.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshJuba.zip.loc) ]
+* 🔗 Battlecat Fairy [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshBattlecatFairy.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshBattlecatFairy.zip.loc) ]
 
 ### 🧩 Spam 2024
 * 🔗 Abbeyy [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024Abbeyy.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024Abbeyy.zip.loc) ]
