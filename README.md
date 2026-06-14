@@ -13,6 +13,9 @@
 * 🔗 Dirty [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024WDCDirty.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024WDCDirty.zip.loc) ]
 * 🔗 Josss [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024WDCDirty.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024WDCDirty.zip.loc) ]
 
+### 🧩 Spam 2024 CR7 Edition
+* 🔗 Juba [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024CR7Juba.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024CR7Juba.zip.loc) ]
+
 ### 🧩 Spam 2024 Refresh
 * 🔗 Dirty [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshDirty.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshDirty.zip.loc) ]
 * 🔗 Josss [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshJosss.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshJosss.zip.loc) ]
@@ -20,6 +23,10 @@
 * 🔗 YelaWolf [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshYelaWolf.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshYelaWolf.zip.loc) ]
 * 🔗 Juba [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshJuba.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshJuba.zip.loc) ]
 * 🔗 Battlecat Fairy [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshBattlecatFairy.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshBattlecatFairy.zip.loc) ]
+* 🔗 Dumdum [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshDumdum.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshDumdum.zip.loc) ]
+* 🔗 Cupra [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshCupra.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshCupra.zip.loc) ]
+* 🔗 Makkss [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshMakkss.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshMakkss.zip.loc) ]
+* 🔗 Nini [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshNini.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024RefreshNini.zip.loc) ]
 
 ### 🧩 Spam 2024
 * 🔗 Abbeyy [ [zip](https://spam-team-trackmania.github.io/skins/2024/Spam2024Abbeyy.zip) ] [ [loc](https://spam-team-trackmania.github.io/skins/2024/Spam2024Abbeyy.zip.loc) ]
